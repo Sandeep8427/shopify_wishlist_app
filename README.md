@@ -371,4 +371,5 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 - [Getting started with internationalizing your app](https://shopify.dev/docs/apps/best-practices/internationalization/getting-started)
 #   s h o p i f y - w i s h l i s t - a p p  
  #   s h o p i f y _ w i s h l i s t _ a p p  
+ #   s h o p i f y _ w i s h l i s t _ a p p  
  
